@@ -4,7 +4,7 @@ title: Welcome to my new blog pages on GitHub
 
 ***
 
-## This is my first blog post here on GitHub
+## What’s going on here?
 
 I’ve had a GitHub account for several years, but have never really thought to use it that much. Recently the blogging platform Listed announced that it would be closing down.
 
